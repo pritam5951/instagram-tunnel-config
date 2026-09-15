@@ -1,1 +1,1 @@
-https://temp-authorities-double-length.trycloudflare.com
+https://example-test.trycloudflare.com
