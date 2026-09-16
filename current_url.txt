@@ -1,1 +1,1 @@
-https://folks-sustainability-losses-sociology.trycloudflare.com
+https://api.trycloudflare.com
