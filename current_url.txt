@@ -1,1 +1,1 @@
-https://physical-finals-shake-duration.trycloudflare.com
+https://api.trycloudflare.com
